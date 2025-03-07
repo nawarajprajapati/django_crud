@@ -1,5 +1,7 @@
 # Building a Django CRUD (Create, Retrieve, Update and Delete) Project Using Function-Based Views
 
+### Project done on collaboration between Nawaraj Prajapati and Pratima
+
 Django is a powerful Python web framework that simplifies web development by providing a clean and pragmatic design. One of the most common tasks in web development is creating CRUD (Create, Read, Update, Delete) functionality for your application. In this article, we'll explore how to create a Django CRUD project using function-based views.
 
 ### Prerequisites
@@ -371,3 +373,4 @@ Visit http://localhost:8000/ in your browser, and you should be able to create, 
 
 In this tutorial, you've learned how to create a Django CRUD project using function-based views. You can further enhance your project by adding features like authentication, pagination, or search functionality. Django's flexibility and extensive ecosystem make it a great choice
 
+Happy Coding!
